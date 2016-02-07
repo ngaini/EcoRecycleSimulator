@@ -1,3 +1,4 @@
 EcoRecycle Project
  
-Collaborations : Nathan Gaini(W1147252) and Pranay Bhandarkar(W1111543)
+Collaborations : Nathan Gaini and Pranay Bhandarkar
+Under Guidance of Professor Rani Mikkilineni
